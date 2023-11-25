@@ -17,9 +17,9 @@ Compare the two values, to find the smaller number.
 ### Step 4: 
 Use for() and if() loop to find the GCD of the two numbers.
 ### Step 5:
+print the result
+### Step 6:
 End the program
-## Program:
-
 ## Program:
 ```
 def gcd():
